@@ -1,0 +1,11 @@
+transformers>=4.45.0
+trl>=0.12.0
+peft>=0.13.0
+accelerate
+bitsandbytes
+datasets
+huggingface_hub
+safetensors
+scikit-learn
+wandb
+nbstripout
